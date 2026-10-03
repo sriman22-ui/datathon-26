@@ -1,0 +1,30 @@
+{"kf": 18.474, "kf_miss": 18.474, "ext_temp": 24.0525, "ext_temp_miss": 24.0525, "ext_occu": 18.4445, "ext_occu_miss": 18.4445, "ext_prev": 35.3687, "ext_prev_miss": 35.3687, "name": "mean", "sec": 0}
+{"kf": 3.5631, "kf_miss": 4.8437, "ext_temp": 4.3727, "ext_temp_miss": 6.7434, "ext_occu": 5.3193, "ext_occu_miss": 7.4198, "ext_prev": 3.9005, "ext_prev_miss": 7.0035, "name": "plain_linear", "sec": 0}
+{"kf": 3.2525, "kf_miss": 6.7611, "ext_temp": 4.4601, "ext_temp_miss": 9.3032, "ext_occu": 5.4415, "ext_occu_miss": 9.4946, "ext_prev": 7.3041, "ext_prev_miss": 10.6386, "name": "lgb_plain", "sec": 32}
+{"kf": 3.0441, "kf_miss": 3.2449, "ext_temp": 3.262, "ext_temp_miss": 3.7346, "ext_occu": 3.4051, "ext_occu_miss": 3.8734, "ext_prev": 3.2738, "ext_prev_miss": 4.0009, "name": "ridge_struct_gbmimp", "sec": 281}
+{"kf": 3.0441, "kf_miss": 3.2452, "ext_temp": 3.262, "ext_temp_miss": 3.7267, "ext_occu": 3.4051, "ext_occu_miss": 3.8735, "ext_prev": 3.2738, "ext_prev_miss": 3.9943, "name": "ridge base"}
+{"kf": 3.0463, "kf_miss": 3.2476, "ext_temp": 3.2698, "ext_temp_miss": 3.7328, "ext_occu": 3.4259, "ext_occu_miss": 3.8839, "ext_prev": 3.3156, "ext_prev_miss": 4.0232, "name": "ridge a=0.1"}
+{"kf": 3.0453, "kf_miss": 3.2465, "ext_temp": 3.2673, "ext_temp_miss": 3.7309, "ext_occu": 3.4186, "ext_occu_miss": 3.8797, "ext_prev": 3.2954, "ext_prev_miss": 4.0085, "name": "ridge a=0.3"}
+{"kf": 3.0488, "kf_miss": 3.2489, "ext_temp": 3.2595, "ext_temp_miss": 3.7251, "ext_occu": 3.4, "ext_occu_miss": 3.878, "ext_prev": 3.3197, "ext_prev_miss": 4.0342, "name": "ridge a=3"}
+{"kf": 3.0745, "kf_miss": 3.2717, "ext_temp": 3.2817, "ext_temp_miss": 3.7452, "ext_occu": 3.4413, "ext_occu_miss": 3.9273, "ext_prev": 3.4268, "ext_prev_miss": 4.1331, "name": "ridge a=10"}
+{"kf": 3.0417, "kf_miss": 3.243, "ext_temp": 3.2377, "ext_temp_miss": 3.7008, "ext_occu": 3.3935, "ext_occu_miss": 3.8642, "ext_prev": 3.2662, "ext_prev_miss": 3.9899, "name": "ridge hinge=29.0"}
+{"kf": 3.043, "kf_miss": 3.2443, "ext_temp": 3.2498, "ext_temp_miss": 3.7135, "ext_occu": 3.3977, "ext_occu_miss": 3.868, "ext_prev": 3.271, "ext_prev_miss": 3.9934, "name": "ridge hinge=29.5"}
+{"kf": 3.0451, "kf_miss": 3.246, "ext_temp": 3.2528, "ext_temp_miss": 3.7101, "ext_occu": 3.4172, "ext_occu_miss": 3.8825, "ext_prev": 3.2761, "ext_prev_miss": 3.9971, "name": "ridge hinge=30.5"}
+{"kf": 3.0467, "kf_miss": 3.2478, "ext_temp": 3.2731, "ext_temp_miss": 3.7391, "ext_occu": 3.424, "ext_occu_miss": 3.8901, "ext_prev": 3.2818, "ext_prev_miss": 4.0081, "name": "ridge hinge=31.0"}
+{"kf": 3.0476, "kf_miss": 3.2491, "ext_temp": 3.2731, "ext_temp_miss": 3.7391, "ext_occu": 3.4052, "ext_occu_miss": 3.8866, "ext_prev": 3.2934, "ext_prev_miss": 4.0265, "name": "ridge hinge=None"}
+{"kf": 3.0441, "kf_miss": 3.2778, "ext_temp": 3.262, "ext_temp_miss": 3.7749, "ext_occu": 3.4051, "ext_occu_miss": 3.9096, "ext_prev": 3.2738, "ext_prev_miss": 4.1206, "name": "p direct"}
+{"kf": 3.0441, "kf_miss": 3.2501, "ext_temp": 3.262, "ext_temp_miss": 3.7368, "ext_occu": 3.4051, "ext_occu_miss": 3.8681, "ext_prev": 3.2738, "ext_prev_miss": 4.0454, "name": "p blend"}
+{"kf": 3.0417, "kf_miss": 3.243, "ext_temp": 3.2377, "ext_temp_miss": 3.7008, "ext_occu": 3.3935, "ext_occu_miss": 3.8642, "ext_prev": 3.2662, "ext_prev_miss": 3.9899, "name": "h29 +"}
+{"kf": 3.049, "kf_miss": 3.2502, "ext_temp": 3.2387, "ext_temp_miss": 3.7003, "ext_occu": 3.3777, "ext_occu_miss": 3.8487, "ext_prev": 3.2647, "ext_prev_miss": 3.9881, "name": "h29 +pH"}
+{"kf": 3.0489, "kf_miss": 3.2496, "ext_temp": 3.2393, "ext_temp_miss": 3.7039, "ext_occu": 3.4074, "ext_occu_miss": 3.8788, "ext_prev": 3.2802, "ext_prev_miss": 4.0009, "name": "h29 +pT"}
+{"kf": 3.0456, "kf_miss": 3.2473, "ext_temp": 3.2429, "ext_temp_miss": 3.7055, "ext_occu": 3.7888, "ext_occu_miss": 4.2041, "ext_prev": 3.2707, "ext_prev_miss": 3.9996, "name": "h29 +oH"}
+{"kf": 3.0432, "kf_miss": 3.2441, "ext_temp": 3.2435, "ext_temp_miss": 3.7048, "ext_occu": 3.4397, "ext_occu_miss": 3.8894, "ext_prev": 3.2657, "ext_prev_miss": 3.9907, "name": "h29 +oTwe"}
+{"kf": 3.0479, "kf_miss": 3.249, "ext_temp": 3.2644, "ext_temp_miss": 3.734, "ext_occu": 3.4048, "ext_occu_miss": 3.8761, "ext_prev": 3.2774, "ext_prev_miss": 3.9937, "name": "h29 +tH"}
+{"kf": 3.0637, "kf_miss": 3.2637, "ext_temp": 3.2542, "ext_temp_miss": 3.7114, "ext_occu": 3.422, "ext_occu_miss": 3.8894, "ext_prev": 3.2775, "ext_prev_miss": 4.0019, "name": "h29 +TwH"}
+{"kf": 3.058, "kf_miss": 3.2602, "ext_temp": 3.2671, "ext_temp_miss": 3.726, "ext_occu": 3.4471, "ext_occu_miss": 3.9291, "ext_prev": 3.2739, "ext_prev_miss": 4.0059, "name": "h29 +BH"}
+{"kf": 3.0402, "kf_miss": 3.2421, "ext_temp": 3.2233, "ext_temp_miss": 3.69, "ext_occu": 3.3721, "ext_occu_miss": 3.8505, "ext_prev": 3.2554, "ext_prev_miss": 3.9751, "name": "h29 +hT"}
+{"kf": 3.0439, "kf_miss": 3.2448, "ext_temp": 3.2386, "ext_temp_miss": 3.699, "ext_occu": 3.4685, "ext_occu_miss": 3.9459, "ext_prev": 3.2673, "ext_prev_miss": 3.9927, "name": "h29 +o2"}
+{"kf": 3.0432, "kf_miss": 3.2454, "ext_temp": 3.2372, "ext_temp_miss": 3.7025, "ext_occu": 3.4065, "ext_occu_miss": 3.8838, "ext_prev": 3.2794, "ext_prev_miss": 3.989, "name": "h29 +tT2"}
+{"kf": 3.0619, "kf_miss": 3.2599, "ext_temp": 3.2266, "ext_temp_miss": 3.6867, "ext_occu": 3.3905, "ext_occu_miss": 3.8549, "ext_prev": 3.3056, "ext_prev_miss": 4.0249, "name": "h29 +BM"}
+{"kf": 3.0402, "kf_miss": 3.2421, "ext_temp": 3.2233, "ext_temp_miss": 3.69, "ext_occu": 3.3721, "ext_occu_miss": 3.8505, "ext_prev": 3.2554, "ext_prev_miss": 3.9751, "name": "FINAL ridge h29+hT"}
+{"kf": 3.0402, "kf_miss": 3.2421, "ext_temp": 3.2233, "ext_temp_miss": 3.69, "ext_occu": 3.3721, "ext_occu_miss": 3.8505, "ext_prev": 3.2554, "ext_prev_miss": 3.9751, "name": "FINAL ridge h29+hT"}
